@@ -29,7 +29,7 @@ Siga as instruções para executar a API.
 
 1. Clone o repositório
    ```sh
-   git clone https://github.com/mayvlima/japaoPadaria.git
+   git clone https://github.com/Siglyane/japaoPadaria.git
    ```  
 2. Excute o projeto por qualquer IDE
    ```sh
